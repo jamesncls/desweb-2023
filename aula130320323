@@ -4,49 +4,111 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML mínimo</title>
+    <title>exercício</title>
 </head>
 <body>
-    <h1> LIstas com HTML</h1>
-    <h2> Listas não ordenadas</h2>
+<h1>Exercícios</h1>
+<h2>Lista de compras</h2>
+<ul>
+    <li>óleo de cozinha</li>
+    <li>arroz</li>
+    <li>feijão</li>
+    <li>ovos</li>
+    <li>leite</li>
+</ul>
+
+<h2>Grupos da copa do mundo</h2>
     <ul>
-        <li>Carro</li>
-        <li>Cores</li>
-        <li>Países</li>
-        <li>Frutas</li>
+        <li>Grupoa A
+            <ul>
+                <li>Catar</li>
+                <li>Equador</li>
+                <li>Holanda</li>
+                <li>Senegal</li>
+            </ul>
+            </li>
+        <li>Grupo B</li>
+            <ul>
+                <li>Estados Unidos</li>
+                <li>Inglaterra</li>
+                <li>Irã</li>
+                <li>País de Gales</li>
+            </ul>
+        <li>Grupo C
+            <ul>
+                <li>Argentina</li>
+                <li>Arábia Saudita</li>
+                <li>México</li>
+                <li>Polônia</li>
+            </ul>
+        </li>
+        <li>Grupo D
+            <ul>
+                <li>Austrália</li>
+                <li>Dinamarca</li>
+                <li>França</li>
+                <li>Tunísia</li>
+            </ul>
+        </li>
+        <li>Grupo E
+            <ul>
+                <li>Alemanha</li>
+                <li>Costa Rica</li>
+                <li>Espanha</li>
+                <li>Japão</li>
+            </ul>
+        </li>
+        </ul>
+    </li>
+
+<h2>10 países mais visitados do mundo</h2>
+<ol>
+    <li>França</li>
+    <li>Espanha</li>
+    <li>Estados Unidos</li>  
+    <li>China</li>
+    <li>Itália</li>
+    <li>Turquia</li>
+    <li>México</li>
+    <li>Alemanha</li>
+    <li>Tailândia</li>
+    <li>Reino Unido</li>
+</ol>
+
+<h2>Cardápio de restaurante</h2>
+<ul>
+    <li>Carnes assadas
+        <ul>
+            <li>Picanha</li>
+            <li>Bisteca</li>
+            <li>Filé</li>
+            <li>Contra-filé</li>
+        </ul>
+
+        </li>
+        <br>
+    <li>Frutos do mar
+        <ul>
+            <li>Camarão</li>
+            <li>Sardinha</li>
+            <li>Caviar</li>
+            <li>Salmão</li>
+        </ul>
+    
+            </li>
     </ul>
 
     <ol>
-        <h2>Listas ordenadas reversa</h2>
-        <li>Ayrton Senna</li>
-        <li>Juan Manuel Fangio</li>
-        <li>Michel Schumacher</li>  
-        <li>Alain Prost</li>
-        <li>Lewis Hamilton</li>
+        <h2>Paises com os piores idh</h2>
+        <li>Guiné</li>
+        <li>Yemen</li>
+        <li>Burkina Faso</li>  
+        <li>Burundi</li>
+        <li>República Centro-Africana</li>
+        <li>Níger</li>
+        <li>Chade</li>
+        <li>Sudão do Sul</li>  
+        <li>Tailândia</li>
+        <li>Inglaterra</li>
     </ol>
-
-    <ol reversed>
-        <h2>Listas ordenadas reversa</h2>
-        <li>Ayrton Senna</li>
-        <li>Juan Manuel Fangio</li>
-        <li>Michel Schumacher</li>  
-        <li>Alain Prost</li>
-        <li>Lewis Hamilton</li>
-    </ol>
-
-   <h2>Listas alinhadas</h2>
-    <ul>
-        <li>Cores
-            <ul>
-                <li>Vermelho</li>
-                <li>Azul</li>
-                <li>Verde</li>
-            <ul>
-                <li>Verde claro</li>
-                <li>Verde escuro</li>
-                </ul>  
-            </li>
-        </ul>
-    </li>
-</body>
-</html>
+</li>
