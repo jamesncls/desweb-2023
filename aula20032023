@@ -1,0 +1,65 @@
+<!DOCTYPEhtml>
+<html lang ="pt-br">
+    <head>
+        <title> atividade 07/03/2023 </title>
+        <meta  charset =" utf-8 ">
+    </head>
+    <body>
+        <h1>Links e imagens</h1>
+        <figure>
+            <img
+                src="imagem.jpg"
+                height="400"
+                width="400"
+                alt="Uma legenda"
+                title="titulo">
+                <figcaption>Figura 1. Skunk</figcaption>
+        </figure>
+        <a href="pagina2.html" target="_blank"> abriruma nova aba> Link para a página 2. </a>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <a href="#imagem.jpg"> Ir para a imagem</a>
+    </body>
+    </html>
